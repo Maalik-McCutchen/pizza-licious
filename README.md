@@ -41,8 +41,16 @@
      As a [type of user], I want [some goal] so that [some reason].
      Same text as the cards on your GitHub project board. -->
 
-- As a ..., I want ..., so that ...
-- As a ..., I want ..., so that ...
+- As a customer, I want to start a new order so that I can order food and drinks.
+- As a customer, I want to select my pizza size and crust so that I can customize my pizza.
+- As a customer, I want to select meat and cheese toppings with the option to add extra portions so that I can customize my pizza.
+- As a customer, I want to select regular toppings, sauces, and stuffed crust so that I can customize my pizza.
+- As a customer, I want to select a drink size and flavor so that I can have a drink with my order.
+- As a customer, I want to add garlic knots to my order so that I can have a side item with my order.
+- As a customer, I want to view my order details and total price so that I can know my selections and how much my order costs before checking out.
+- As a customer, I want to confirm my order so that I can receive a receipt of my order.
+- As a customer, I want to be able to cancel my current order so that if I change my mind about my order.
+- As a user, I want an Informational README, so that I can understand the application's purpose, features, and how to run it.
 
 ## Setup
 

@@ -20,7 +20,7 @@
      images folder and keep the line below. If your project has no class diagram, delete this whole section,
      heading included. -->
 
-![Class Diagram](images/class-diagram.png)
+![Class Diagram](images/the-pizza-class-diagram.png)
 
 ## Features
 

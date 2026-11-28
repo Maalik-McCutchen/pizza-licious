@@ -68,6 +68,7 @@ public class UserInterface {
                 System.out.println();
             } else {
                 System.out.println(currentOrder + "\n\nOrder Total: $" + currentOrder.getTotal());
+                System.out.println();
             }
 
             System.out.println("1) Add Pizza");

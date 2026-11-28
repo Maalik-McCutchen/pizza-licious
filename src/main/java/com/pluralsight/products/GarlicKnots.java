@@ -17,6 +17,6 @@ public class GarlicKnots extends Product {
 
     @Override
     public String toString() {
-        return getProductName() + " - " + getProductPrice();
+        return getProductName() + " - $" + getProductPrice();
     }
 }

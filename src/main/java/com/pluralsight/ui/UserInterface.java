@@ -1,6 +1,7 @@
 package com.pluralsight.ui;
 
 import com.pluralsight.orders.Order;
+import com.pluralsight.products.GarlicKnots;
 
 import java.util.Scanner;
 
@@ -121,6 +122,9 @@ public class UserInterface {
     }
 
     public void addGarlicKnots() {
+
+        GarlicKnots garlicKnots = new GarlicKnots("Garlic Knots");
+        currentOrder.addProduct(garlicKnots);
 
     }
 
